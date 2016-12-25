@@ -1,0 +1,12 @@
+[submodule "mist64/xhyve"]
+	path = mist64/xhyve
+	url = https://github.com/mist64/xhyve.git
+[submodule "xhyve-xyz/xhyve"]
+	path = xhyve-xyz/xhyve
+	url = https://github.com/xhyve-xyz/xhyve.git
+[submodule "freebsd/freebsd"]
+	path = freebsd/freebsd
+	url = https://github.com/freebsd/freebsd.git
+[submodule "docker/hyperkit"]
+	path = docker/hyperkit
+	url = https://github.com/docker/hyperkit.git
