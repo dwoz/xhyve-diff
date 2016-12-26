@@ -10,3 +10,6 @@
 [submodule "docker/hyperkit"]
 	path = docker/hyperkit
 	url = https://github.com/docker/hyperkit.git
+[submodule "IJ-NetBSD/netbsd-src"]
+	path = IJ-NetBSD/netbsd-src
+	url = https://github.com/IIJ-NetBSD/netbsd-src.git
